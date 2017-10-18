@@ -9,7 +9,7 @@
   width: 250px;
   height: 250px;
   position: absolute;
-  bottom: 250px;
+  bottom: 300px;
   left: 80px;
 }
 .caja_chica {
@@ -17,7 +17,7 @@
   width: 125px;
   height: 125px;
   position: absolute;
-  bottom: 375px;
+  bottom: 425px;
   left: 80px;
 }
 .caja_grande_b {
