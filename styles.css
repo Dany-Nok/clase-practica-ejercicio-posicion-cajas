@@ -1,0 +1,44 @@
+.caja_grande {
+  background-color: red;
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+.caja_mediana {
+  background-color: purple;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  bottom: 250px;
+  left: 80px;
+}
+.caja_chica {
+  background-color: yellow;
+  width: 125px;
+  height: 125px;
+  position: absolute;
+  bottom: 375px;
+  left: 80px;
+}
+.caja_grande_b {
+  background-color: blue;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  margin-top: 20px;
+}
+.caja_mediana_b {
+  background-color: green;
+  width: 245px;
+  height: 245px;
+  position: absolute;
+  top: 510px;
+  left: 90px;
+}
+.caja_chica_b {
+  background-color: black;
+  width: 82px;
+  height: 82px;
+  position: absolute;
+  top: 428px;
+}
